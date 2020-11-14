@@ -1,0 +1,13 @@
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\bin\Debug\netcoreapp3.1\PracticasCchar.exe
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\bin\Debug\netcoreapp3.1\PracticasCchar.deps.json
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\bin\Debug\netcoreapp3.1\PracticasCchar.runtimeconfig.json
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\bin\Debug\netcoreapp3.1\PracticasCchar.runtimeconfig.dev.json
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\bin\Debug\netcoreapp3.1\PracticasCchar.dll
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\bin\Debug\netcoreapp3.1\PracticasCchar.pdb
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\obj\Debug\netcoreapp3.1\PracticasCchar.csprojAssemblyReference.cache
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\obj\Debug\netcoreapp3.1\PracticasCchar.AssemblyInfoInputs.cache
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\obj\Debug\netcoreapp3.1\PracticasCchar.AssemblyInfo.cs
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\obj\Debug\netcoreapp3.1\PracticasCchar.csproj.CoreCompileInputs.cache
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\obj\Debug\netcoreapp3.1\PracticasCchar.dll
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\obj\Debug\netcoreapp3.1\PracticasCchar.pdb
+D:\Cosa\Cursos\Practicas C#\PracticasCchar\obj\Debug\netcoreapp3.1\PracticasCchar.genruntimeconfig.cache
